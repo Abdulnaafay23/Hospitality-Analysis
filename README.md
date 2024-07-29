@@ -1,5 +1,5 @@
 # AtliQ Grands - Hospitality Analytics
-**🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDU2NDc2MTMtMzg4NC00MzdjLThjNjMtMjU3Zjk3NTBiYzdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** 
+**🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY0MWIyODYtYmFmZC00MWFkLWE3ZmMtZDcwZTM5ZjczODFjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)** 
 
 ## 🔶Project Overview
 
